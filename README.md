@@ -3,6 +3,7 @@
 ![ADB SDK](https://img.shields.io/badge/ADB-SDK-green.svg)
 ![license MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![platform Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg) 
+![platform Mac OS](https://img.shields.io/badge/platform-Mac-OS-lightgrey.svg) 
 
 # KMZ Injector for DJI – Installation Guide (Windows & macOS)
 
