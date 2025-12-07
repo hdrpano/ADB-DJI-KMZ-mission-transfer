@@ -147,6 +147,9 @@ The path is saved in `config.yaml`.
 
 # 🗂 5. Using KMZ Injector
 
+👉 Download the latest release here:
+🔗 https://github.com/hdrpano/ADB-DJI-KMZ-transfer/releases/tag/v1.0.0
+
 ### ✔ Load missions  
 The app loads missions from the device:
 ```
