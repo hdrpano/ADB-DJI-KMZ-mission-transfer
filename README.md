@@ -14,6 +14,8 @@ on the DJI RC 2 using either ADB or MTP.
 The tool focuses on reliability, transparency, and predictable behavior across macOS and Windows.
 ![DJI_ADB/MTP](img/MacOS.png)
 
+You can find the last compiled release here:
+[DJI-KMZ-Injector Release](https://github.com/hdrpano/DJI-KMZ-Injector/releases)
 ---
 
 ## Features
